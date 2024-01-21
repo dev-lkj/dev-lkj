@@ -15,8 +15,8 @@
 
 <b>[Back-end]</b>
 <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&ogoColor=white">
+<img src="https://img.shields.io/badge/Java-999999?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/mysql 8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis 5.0.3-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/spring 5.3-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
